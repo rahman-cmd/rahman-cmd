@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahman-cmd
+- 👋 Hi, I’m Md Abdur Rahman
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
