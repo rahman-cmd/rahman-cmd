@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Abdur Rahman</h1>
-<h3 align="center">Junior React Developer</h3>
+<h3 align="center">Junior Web Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/ai_abdur_rahman" target="blank"><img src="https://img.shields.io/twitter/follow/ai_abdur_rahman?logo=twitter&style=for-the-badge" alt="ai_abdur_rahman" /></a> </p>
 
-- 🌱 I’m currently learning **learning MERN Stuck**
+- 🌱 I’m currently learning **MERN Stuck**
 
 - 🤝 I’m looking for help with **Doctors Portal**
 
