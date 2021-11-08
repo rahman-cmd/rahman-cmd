@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Abdur Rahman</h1>
 <h3 align="center">Junior React Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahman-cmd" alt="rahman-cmd" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ai_abdur_rahman" target="blank"><img src="https://img.shields.io/twitter/follow/ai_abdur_rahman?logo=twitter&style=for-the-badge" alt="ai_abdur_rahman" /></a> </p>
 
 - 🌱 I’m currently learning **learning MERN Stuck**
@@ -16,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ai_abdur_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ai_abdur_rahman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-abdur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abdur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-abdur-rahman-667447213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abdur-rahman-667447213" height="30" width="40" /></a>
 <a href="https://fb.com/rahman77hawlader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahman77hawlader" height="30" width="40" /></a>
 <a href="https://instagram.com/abdur_rahman_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdur_rahman_h" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/arbanglait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arbanglait" height="30" width="40" /></a>
