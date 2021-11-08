@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Doctors Portal**
 
-- 👨‍💻 All of my projects are available at [ai-soft.netlify.com](ai-soft.netlify.com)
+- 👨‍💻 All of my projects are available at [https://ai-soft.netlify.app/](https://ai-soft.netlify.app/)
 
 - 📫 How to reach me **mmm.rahman77@gmail.com**
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/ai_abdur_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ai_abdur_rahman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-abdur-rahman-667447213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abdur-rahman-667447213" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14013521/md-abdur-rhman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14013521/md-abdur-rhman" height="30" width="40" /></a>
 <a href="https://fb.com/rahman77hawlader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahman77hawlader" height="30" width="40" /></a>
 <a href="https://instagram.com/abdur_rahman_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdur_rahman_h" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/arbanglait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arbanglait" height="30" width="40" /></a>
