@@ -1,7 +1,7 @@
 ![I am Abdur Rahman](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 <img align ="right" alt="Coding" width="400" src="https://www.windaydigital.com/wp-content/uploads/2020/12/39998-web-development.gif"/>
 <h1 align="center">Hi 👋, I'm Md Abdur Rahman</h1>
-<h3 align="center">Junior Web Developer</h3>
+<h3 align="center">Web Developer | Android Application Developer </h3>
 
 <p align="left"> <a href="https://twitter.com/ai_abdur_rahman" target="blank"><img src="https://img.shields.io/twitter/follow/ai_abdur_rahman?logo=twitter&style=for-the-badge" alt="ai_abdur_rahman" /></a> </p>
 
